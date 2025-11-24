@@ -260,7 +260,6 @@ graph LR
 | 📊 **Interactive Dashboard** | ✅ Complete | Real-time metrics, charts, forest map |
 | 🤖 **AI Analysis** | ✅ Complete | Gemini 2.5 Flash integration, natural language insights |
 | 📱 **SMS Alerts** | ✅ Complete | Africa's Talking integration, 95%+ delivery |
-| 🔐 **Authentication** | ✅ Complete | JWT auth, role-based access (User/Ranger) |
 | 📄 **Reports & Export** | ✅ Complete | PDF generation, CSV export |
 
 ### 🚧 Phase 2: Enhanced Intelligence
